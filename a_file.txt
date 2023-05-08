@@ -1,0 +1,10 @@
+1. to initialize git in current folder use
+
+$ git init
+
+
+2. to add file(s) under version control use
+
+$ git add *.c
+$ git add a_file.txt
+
