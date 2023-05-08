@@ -65,3 +65,8 @@ $ git push [origin master]
 
 git commit --amend
 
+
+13. adding tags
+
+$ git tag -a v1.0 -m 'my first tag'
+
