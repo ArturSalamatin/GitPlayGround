@@ -46,8 +46,7 @@ $ git checkout -- file_name
 
 
 10. fetch from remote repository
+(personal token has been created for GitPlayGround on GitHub)
 
 $ git fetch [name aka origin]
 
-created a personalaccess token (yes, never share it publicly =) )
-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
