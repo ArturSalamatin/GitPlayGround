@@ -71,3 +71,10 @@ git commit --amend
 $ git tag -a v1.0 -m 'my first tag'
 
 
+14. merge two branches
+update to the desired branch
+and then merge another branch into the local one
+
+$ git merge hotfix
+
+
