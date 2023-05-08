@@ -20,7 +20,10 @@ $ git commit
 
 
 5. commit ANY changes. There is no need to stage before commit
+
 $ git commit -a
 
 
-6. 
+6. delete file from the tracked list
+
+$ git rm
