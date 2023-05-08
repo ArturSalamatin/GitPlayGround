@@ -8,3 +8,10 @@ $ git init
 $ git add *.c
 $ git add a_file.txt
 
+
+3. check file status
+
+$ git status
+
+
+4. 
