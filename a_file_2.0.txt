@@ -38,3 +38,8 @@ $ git mv file_from file_to
 
 $ git log
 $ git log --pretty=format:'%h %s' --graph
+
+
+9. undo last changes that are NOT staged or commited
+
+$ git checkout -- file_name
