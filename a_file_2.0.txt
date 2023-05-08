@@ -70,3 +70,12 @@ git commit --amend
 
 $ git tag -a v1.0 -m 'my first tag'
 
+
+14. creating new branch
+
+$ git branch testing
+
+
+15. switching to another branch
+
+$ git checkout testing
