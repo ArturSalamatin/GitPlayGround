@@ -78,3 +78,6 @@ and then merge another branch into the local one
 $ git merge hotfix
 
 
+15 delete unnessary branch, i.e., pointer to commit
+
+$ git branch -d hotfix
