@@ -60,3 +60,8 @@ then one can push as
 
 $ git push [origin master]
 
+
+12. using amend one can add changes to last commit
+
+git commit --amend
+
