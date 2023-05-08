@@ -79,3 +79,15 @@ $ git branch testing
 15. switching to another branch
 
 $ git checkout testing
+
+
+16. pushing a new branch to remote repository
+
+$ git push
+fatal: The current branch testing has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin testing
+
+
+    
