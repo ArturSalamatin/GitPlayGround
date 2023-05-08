@@ -14,4 +14,13 @@ $ git add a_file.txt
 $ git status
 
 
-4. 
+4. commit staged changes
+
+$ git commit
+
+
+5. commit ANY changes. There is no need to stage before commit
+$ git commit -a
+
+
+6. 
