@@ -37,4 +37,4 @@ $ git mv file_from file_to
 8. print the commit history tree
 
 $ git log
-$ git log --pretty=format: "%h %s" --graph
+$ git log --pretty=format:'%h %s' --graph
