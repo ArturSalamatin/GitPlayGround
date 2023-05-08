@@ -50,3 +50,13 @@ $ git checkout -- file_name
 
 $ git fetch [name aka origin]
 
+
+11. push command to push to remote repository
+First, one needs to set up access to remote repository (in case of GitHub)
+To do this, use a command 
+$ git remote set-url origin git@github.com:ArturSalamatin/GitPlayGround.git
+
+then one can push as
+
+$ git push [origin master]
+
